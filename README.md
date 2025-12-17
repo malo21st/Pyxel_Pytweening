@@ -11,7 +11,7 @@
   - source: ease_ex1.py
 <img src="/gif/easing_ex1.gif" width="300">  
 
--  複数のオブジェクトにイージング
+- 複数のオブジェクトにイージング
   - source: ease_ex2.py
   - https://malo21st.github.io/Pyxel_Pytweening/demo_shot/
 <img src="/gif/easing_ex2.gif" width="300">   
