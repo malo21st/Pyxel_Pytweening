@@ -1,6 +1,6 @@
 # Pyxel Advent Calendar 2025  
 ## 18日目　Pyxel × Pytweening で動きを演出しよう！  
-- Qiita記事：https://qiita.com/malo21st/items/32b7865e7c78d4ac2741  
+- Qiita記事：https://qiita.com/malo21st/items/f69d994eaa5c4d068618  
 ---
 - Pytweeningイージング３３種イッキ見
   - source: ease_ex0.py
